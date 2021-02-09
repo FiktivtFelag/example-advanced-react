@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="064ee6a5-f3ad-4c8b-8e3b-98dd8fbc1596" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/examples/context/ExampleContextComponent.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/context/VisibilityContext.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/context/VisibilityProvider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/hoc/HocExample.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/hoc/withName.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/hooks/HookExample.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/testing/basic/ToggleTestComp.spec.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/testing/basic/ToggleTestComp.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/testing/basic/useToggle.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/testing/mocking/IMyTestClass.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JiraServerManager">
+    <selected>-1</selected>
+    <servers />
+  </component>
+  <component name="ProjectId" id="1oDORnzxPCin0MwAtM0wcUWWpVX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/examples/testing/more-advanced" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="All Tests" type="JavaScriptTestRunnerJest" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <jest-options value="--watch" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="064ee6a5-f3ad-4c8b-8e3b-98dd8fbc1596" name="Default Changelist" comment="" />
+      <created>1612817690703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612817690703</updated>
+      <workItem from="1612817693278" duration="34000" />
+      <workItem from="1612817783777" duration="59000" />
+      <workItem from="1612817854499" duration="3000" />
+      <workItem from="1612817875841" duration="65000" />
+      <workItem from="1612818292335" duration="9877000" />
+      <workItem from="1612861657045" duration="4542000" />
+      <workItem from="1612874683659" duration="5238000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612876772819">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027/-1920.23.1920.1177@0.23.1680.1027" timestamp="1612876772819" />
+    <state x="573" y="345" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612819737398">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="573" y="345" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1612819737398" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1612879201487">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="-1343" y="283" width="766" height="775" key="search.everywhere.popup/0.23.1680.1027/-1920.23.1920.1177@-1920.23.1920.1177" timestamp="1612868424316" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027/-1920.23.1920.1177@0.23.1680.1027" timestamp="1612879201487" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1612828349251" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/example_advanced_react$All_Tests.info" NAME="All Tests Coverage Results" MODIFIED="1612880092144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="JestJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

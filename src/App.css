@@ -1,0 +1,15 @@
+
+body {
+  background-color: #353572;
+  color: #fff
+}
+
+.container {
+  text-align: center;
+  justify-content: center;
+}
+
+.box {
+  border: 2px solid #fff;
+  background-color: #000;
+}
